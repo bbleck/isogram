@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		D38A9D8B220F0D3C007A87FE /* isogram */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = isogram; sourceTree = BUILT_PRODUCTS_DIR; };
 		D38A9D8E220F0D3C007A87FE /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		D38A9D95220F8E68007A87FE /* isogram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = isogram.h; path = ../../../../../Exercism/c/isogram/src/isogram.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 		D38A9D8D220F0D3C007A87FE /* isogram */ = {
 			isa = PBXGroup;
 			children = (
+				D38A9D95220F8E68007A87FE /* isogram.h */,
 				D38A9D8E220F0D3C007A87FE /* main.c */,
 			);
 			path = isogram;
